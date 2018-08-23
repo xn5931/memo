@@ -62,6 +62,4 @@ Nodejs学习过程中的一些总结，可[点击这里](https://github.com/chyi
   * express进阶：多模板引擎支持
   * 基于 express + XHR 的跨域资源请求
 
-## 微信公众号
 
-![程序猿小卡的技术公众号](assets/qrcode_for_gh_7ba65667d1aa_344.jpg)
